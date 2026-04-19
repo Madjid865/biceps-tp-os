@@ -1,6 +1,7 @@
 # biceps — Bel Interpréteur de Commandes des Élèves de Polytech Sorbonne
 
 NOM: CHIKHI, NAIMI
+
 PRENOM: Madjid, Nassim
 
 ## Structure du projet
@@ -85,3 +86,7 @@ make memory-leak
 valgrind --leak-check=full --track-origins=yes --errors-for-leak-kinds=all \
          --error-exitcode=1 ./biceps-memory-leaks
 ```
+
+## Auteurs
+
+Groupe SERIANE — Polytech Sorbonne, 2026
