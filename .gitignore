@@ -1,0 +1,13 @@
+# Binaires et objets
+biceps
+biceps-memory-leaks
+*.o
+
+# Fichiers temporaires
+*.d
+*.swp
+*~
+.DS_Store
+
+# Historique biceps
+.biceps_history
